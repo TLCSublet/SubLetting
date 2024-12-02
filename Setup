@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, inital-scale=1.0">
+  <title>Subletting</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1> Welcome to my Website page</h1>
+  <p> This is a simple test
+</body>
+</html>
+git add
+git commit -m "Inital commit"
+git push origin main
